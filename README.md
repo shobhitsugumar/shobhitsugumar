@@ -4,7 +4,10 @@
 <h3 align="center"> Welcome to my github page</h3>
 
 # 💫 About Me:
-I'm an indie full-stack developer building my version of the digital world one step at a time .All coding projects are built from the ground up ,from planning and designing all the way to solving real -life problems with code.I bring an eagerness to learn, coupled with a solid foundation in these key technologies. My goal is to contribute innovative solutions, tackle challenges head-on, and carve a niche in the ever-evolving world of technology.Let's connect and explore
+
+I am an independent web developer, gradually constructing my vision of the digital world step by step. Each coding project is meticulously crafted, starting from the initial planning and design phases, and extending all the way to solving real-life problems with code. My approach is characterized by an eagerness to learn, underpinned by a strong foundation in key technologies.
+
+My overarching goal is to contribute innovative solutions, confront challenges head-on, and carve out a distinct niche in the continuously evolving landscape of technology. I am enthusiastic about connecting with like-minded individuals to explore new opportunities and ideas. Let's connect and embark on this journey of exploration together.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,10 +17,10 @@ I'm an indie full-stack developer building my version of the digital world one s
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shobhit-sugumar) 
+<a href="https://linkedin.com/in/shobhit-sugumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-sugumar" height="20" width="30" /></a>
 
 <h3>My Blog</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconsdb.com%2Fwhite-icons%2Fblogger-5-icon.html&psig=AOvVaw3EgJI7ake8iMBh3O9r0i0o&ust=1706073606717000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjF0tDh8oMDFQAAAAAdAAAAABAE" alt="hugo" width="40" height="40"/> 
+<a href=https://shobhitsugumar.github.io/><img src="https://github.com/shobhitsugumar/shobhitsugumar/blob/main/images.png" alt="blog" width="20" height="20"/></a>  <a href="https://shobhitsugumar.github.io/"> shobhitsugumar.github.io</a>
 
 #
 
