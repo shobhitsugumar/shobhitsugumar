@@ -1,10 +1,6 @@
+
 <img src="https://github.com/shobhitsugumar/shobhitsugumar/blob/main/64cef349-c269-4b6b-ac2d-a52663fd7905.jpeg" alt="logo" style="height: 400px; width: 1100px">
-
-
-
-
-                                            ### Hi there  my name is shobhit sugumar  👋
-
+ <h2> Hi there  my name is shobhit sugumar  👋</h2>
 <!--
 **shobhitsugumar/shobhitsugumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
