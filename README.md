@@ -1,11 +1,19 @@
 
 <img src="https://github.com/shobhitsugumar/shobhitsugumar/blob/main/64cef349-c269-4b6b-ac2d-a52663fd7905.jpeg" alt="logo" style="height: 400px; width: 1100px">
 
-<h3 align="center"> Welcome to my github page</h3>
+<h3 align="center">
+     Welcome To My Git Page   
+     <img src="https://discordemoji.com/assets/emoji/wavegif_1860.gif"
+          alt="animated waving hand emoji"
+          width="45"
+          height="45"
+          style="margin-bottom: -10px" />
+   
+</h3>
 
 # 💫 About Me:
 
-I am an independent web developer, gradually constructing my vision of the digital world step by step. Each coding project is meticulously crafted, starting from the initial planning and design phases, and extending all the way to solving real-life problems with code. My approach is characterized by an eagerness to learn, underpinned by a strong foundation in key technologies.
+<p style="font-size: 50px;"> I am an independent web developer, gradually constructing my vision of the digital world step by step. Each coding project is meticulously crafted, starting from the initial planning and design phases, and extending all the way to solving real-life problems with code. My approach is characterized by an eagerness to learn, underpinned by a strong foundation in key technologies.</p>
 
 My overarching goal is to contribute innovative solutions, confront challenges head-on, and carve out a distinct niche in the continuously evolving landscape of technology. I am enthusiastic about connecting with like-minded individuals to explore new opportunities and ideas. Let's connect and embark on this journey of exploration together.
 
