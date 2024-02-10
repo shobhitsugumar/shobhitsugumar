@@ -2,7 +2,7 @@
 <img src="https://github.com/shobhitsugumar/shobhitsugumar/blob/main/64cef349-c269-4b6b-ac2d-a52663fd7905.jpeg" alt="logo" style="height: 400px; width: 1100px">
 
 <h3 align="center">
-     Welcome To My Git Page   
+     Hey there    
      <img src="https://discordemoji.com/assets/emoji/wavegif_1860.gif"
           alt="animated waving hand emoji"
           width="45"
