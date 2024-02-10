@@ -40,5 +40,4 @@ My overarching goal is to contribute innovative solutions, confront challenges h
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shobhitsugumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
