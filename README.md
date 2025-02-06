@@ -19,7 +19,7 @@ Hey! I’m a web developer building my corner of the internet, one project at a 
 </p>
 
 #
- <h3>🌐 Socials:</h3>
+ <h3>Hit me up :</h3>
  
 <a href="https://linkedin.com/in/shobhit-sugumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-sugumar" height="20" width="30" /></a>
 
