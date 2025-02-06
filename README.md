@@ -11,9 +11,7 @@
 </h3>
 
 <h3>💫 About Me:</h3>
-I am an independent web developer, gradually constructing my vision of the digital world step by step. Each coding project is meticulously crafted, starting from the initial planning and design phases, and extending all the way to solving real-life problems with code. My approach is characterized by an eagerness to learn, underpinned by a strong foundation in key technologies.
-
-My overarching goal is to contribute innovative solutions, confront challenges head-on, and carve out a distinct niche in the continuously evolving landscape of technology. I am enthusiastic about connecting with like-minded individuals to explore new opportunities and ideas. Let's connect and embark on this journey of exploration together.
+Hey! I’m a web developer building my corner of the internet, one project at a time. I start with a plan, fight with code, and somehow end up solving  problems (or creating new ones, oops). Always learning, always tinkering, and always ready to geek out over tech. Let’s connect and make something cool—or at least laugh at our bugs together!.
 
 #
 <h3 align="left">When I code, I rely on :</h3>
